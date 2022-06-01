@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF FNIA.png">
+<SubTexture name="BF NOTE DOWN0000" x="0" y="0" width="376" height="362" pivotX="-13" pivotY="-4.65" frameX="0" frameY="-8" frameWidth="376" frameHeight="370"/>
+<SubTexture name="BF NOTE DOWN0001" x="0" y="0" width="376" height="362" frameX="0" frameY="-8" frameWidth="376" frameHeight="370"/>
+<SubTexture name="BF NOTE DOWN0002" x="376" y="0" width="375" height="366" frameX="0" frameY="-4" frameWidth="376" frameHeight="370"/>
+<SubTexture name="BF NOTE LEFT0000" x="751" y="0" width="383" height="412" pivotX="-288.35" pivotY="200.05" frameX="0" frameY="0" frameWidth="390" frameHeight="412"/>
+<SubTexture name="BF NOTE LEFT0001" x="1134" y="0" width="380" height="411" frameX="-3" frameY="-1" frameWidth="390" frameHeight="412"/>
+<SubTexture name="BF NOTE RIGHT0000" x="1235" y="834" width="414" height="410" pivotX="-343.95" pivotY="200.4" frameX="-2" frameY="-2" frameWidth="416" frameHeight="412"/>
+<SubTexture name="BF NOTE RIGHT0001" x="0" y="1244" width="412" height="411" frameX="-1" frameY="-1" frameWidth="416" frameHeight="412"/>
+<SubTexture name="BF NOTE UP0000" x="412" y="1244" width="365" height="447" pivotX="-36.4" pivotY="-36.3" frameX="-3" frameY="0" frameWidth="370" frameHeight="447"/>
+<SubTexture name="BF NOTE UP0001" x="777" y="1244" width="365" height="446" frameX="-3" frameY="-1" frameWidth="370" frameHeight="447"/>
+<SubTexture name="BF idle dance0000" x="0" y="411" width="411" height="396" pivotX="-299.8" pivotY="207.35" frameX="-1" frameY="-22" frameWidth="414" frameHeight="418"/>
+<SubTexture name="BF idle dance0001" x="0" y="411" width="411" height="396" frameX="-1" frameY="-22" frameWidth="414" frameHeight="418"/>
+<SubTexture name="BF idle dance0002" x="1134" y="411" width="414" height="398" frameX="0" frameY="-20" frameWidth="414" frameHeight="418"/>
+<SubTexture name="BF idle dance0003" x="1134" y="411" width="414" height="398" frameX="0" frameY="-20" frameWidth="414" frameHeight="418"/>
+<SubTexture name="BF idle dance0004" x="0" y="809" width="410" height="403" frameX="-3" frameY="-15" frameWidth="414" frameHeight="418"/>
+<SubTexture name="BF idle dance0005" x="0" y="809" width="410" height="403" frameX="-3" frameY="-15" frameWidth="414" frameHeight="418"/>
+<SubTexture name="BF idle dance0006" x="410" y="809" width="413" height="416" frameX="-1" frameY="-2" frameWidth="414" frameHeight="418"/>
+<SubTexture name="BF idle dance0007" x="410" y="809" width="413" height="416" frameX="-1" frameY="-2" frameWidth="414" frameHeight="418"/>
+<SubTexture name="BF idle dance0008" x="823" y="809" width="412" height="418" frameX="-2" frameY="0" frameWidth="414" frameHeight="418"/>
+<SubTexture name="BF idle dance0009" x="1548" y="0" width="412" height="418" frameX="-2" frameY="0" frameWidth="414" frameHeight="418"/>
+<SubTexture name="BF idle dance0010" x="1548" y="0" width="412" height="418" frameX="-2" frameY="0" frameWidth="414" frameHeight="418"/>
+<SubTexture name="BF idle dance0011" x="1548" y="418" width="412" height="416" frameX="-2" frameY="-2" frameWidth="414" frameHeight="418"/>
+<SubTexture name="BF idle dance0012" x="1548" y="418" width="412" height="416" frameX="-2" frameY="-2" frameWidth="414" frameHeight="418"/>
+</TextureAtlas>
